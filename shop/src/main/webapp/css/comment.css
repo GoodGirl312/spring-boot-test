@@ -1,0 +1,13 @@
+.box {
+    display: block;
+    width: 100%;
+    padding: 8px 0;
+    height: 104px;
+    margin: 0;
+    border: 0;
+    overflow: auto;
+    font-size: 14px;
+    line-height: 26px;
+    font-family: "Microsoft Yahei","\5FAE\8F6F\96C5\9ED1","SimSun","\5B8B\4F53","Arial Narrow",serif;
+    resize: none;
+}

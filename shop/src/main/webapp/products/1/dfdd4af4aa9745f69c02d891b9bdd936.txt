@@ -1,0 +1,6 @@
+sf=select * from 
+w=where 
+s=select 
+scf=select count(*) from 
+c=create 
+i=insert into 
